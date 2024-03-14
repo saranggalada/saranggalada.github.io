@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a CS undergrad passionate about solving problems and building things with technology. Striving to develop expertise in Robotics and Machine Intelligence. 
+I'm a CS undergrad passionate about solving problems and building things with technology. Developing expertise in Robotics and Machine Intelligence (AI/ML/RL). 
 
-Completed three internships -- one at IIT Madras Research Park under `Dr. Ashok Jhunjhunwala` and another with the e-Yantra team in IIT Bombay led by `Dr. Kavi Arya`. Selected for the latter after winning the 3rd-place prize at IIT Bombay's `e-Yantra Robotics Competition 2023` for our `Self-balancing Delivery Bike`. Product of liberal education. Love wildlife and sports - especially Football!
+Completed three internships -- one at IIT Madras Research Park under `Dr. Ashok Jhunjhunwala` and another with the e-Yantra team in IIT Bombay led by `Dr. Kavi Arya`. Selected for the latter after winning the Runner-up prize at IIT Bombay's `e-Yantra Robotics Competition 2023` for our `Self-balancing Delivery Bike`. Product of liberal education. Love wildlife and sports - especially Football!
 
-My motivation to pursue Engineering and Science stems from my lifelong pursuit to understand the “what”, “how” and “why” of the universe. Fundamentally, this makes me an “engineer”. As Richard Feynman puts it so incisively, “*What I cannot build, I do not understand*.”
+My motivation to pursue Engineering and Science stems from my lifelong pursuit to understand the “what”, “how” and “why” of the world around. Fundamentally, this makes me a “builder”. As Richard Feynman puts it so incisively, “*What I cannot build, I do not understand*.”
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
