@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bioluminescence
+title: project
 description: Life that glows
 img: assets/img/7.jpg
 redirect: [Bioluminescence](https://drive.google.com/file/d/18pG-ev089mvzbyr3jwRQ3Wwh_EWUkGjK/view?usp=sharing)
