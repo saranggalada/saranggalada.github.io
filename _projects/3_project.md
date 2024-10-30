@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bioluminescence
-description: Life that glows ✨
+description: Life that glows
 img: assets/img/7.jpg
 redirect: [Bioluminescence](https://drive.google.com/file/d/18pG-ev089mvzbyr3jwRQ3Wwh_EWUkGjK/view?usp=sharing)
 importance: 3
