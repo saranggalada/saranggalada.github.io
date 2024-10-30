@@ -5,7 +5,7 @@ description: Life that glows ✨
 img: assets/img/7.jpg
 redirect: [Bioluminescence](https://drive.google.com/file/d/18pG-ev089mvzbyr3jwRQ3Wwh_EWUkGjK/view?usp=sharing)
 importance: 3
-category: personal
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
