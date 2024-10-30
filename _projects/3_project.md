@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Bioluminescence
+description: Life that glows ✨
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: [Bioluminescence](https://drive.google.com/file/d/18pG-ev089mvzbyr3jwRQ3Wwh_EWUkGjK/view?usp=sharing)
 importance: 3
-category: work
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.
