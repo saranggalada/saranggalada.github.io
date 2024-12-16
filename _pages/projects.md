@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+<!-- permalink: /projects/ -->
+permalink: https://drive.google.com/drive/folders/1ctj5dEDDoSbUuPC7fYUCw3CpegUTcmfl
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
