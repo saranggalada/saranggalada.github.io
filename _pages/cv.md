@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: projects
 permalink: /cv/
 title: cv
 description: Redirecting to cv
