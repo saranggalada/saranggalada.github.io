@@ -9,7 +9,7 @@ nav_order: 3
 
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1gOfea_w9rLtBBCoeNZqWnC2fnUPVOig8k">
+    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1gOfea_w9rLtBBCoeNZqWnC2fnUPVOig8">
 </head>
 <body>
     <p>Redirecting to <a href="https://drive.google.com/file/d/1gOfea_w9rLtBBCoeNZqWnC2fnUPVOig8">Google Drive</a>...</p>
